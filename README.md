@@ -32,3 +32,8 @@ This is a simple Java console-based calculator. It performs basic arithmetic ope
 
 ```bash
 javac Calculator.java
+```
+
+4.Run the code:
+```bash
+java Calculator
