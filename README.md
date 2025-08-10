@@ -3,7 +3,7 @@
 This is a simple Java console-based calculator. It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 
-# Features
+## Features
 
 - Accepts user input using `Scanner`
 - Supports the following operations:
@@ -16,7 +16,7 @@ This is a simple Java console-based calculator. It performs basic arithmetic ope
 - Demonstrates the use of methods, conditionals, and loops
 
 
-# Tools Used
+## Tools Used
 
 - Java (JDK)
 - Notepad
@@ -24,7 +24,7 @@ This is a simple Java console-based calculator. It performs basic arithmetic ope
 - Command Prompt
 
 
-#  How to Run
+## How to Run
 
 1. Clone this repository or download the `Calculator.java` file
 2. Open a terminal and navigate to the file directory
